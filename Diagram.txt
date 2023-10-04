@@ -1,19 +1,19 @@
 Journal Program:
-Class: Prompt
+Class: Prompt //---------------------done
 Attributes: 
 * _list() : list<string>
  
 Behaviors:
 * Display() : void
  
-Class: Menu
+Class: Menu //----------------------done
 Attributes: 
 * _list() : list<string>
  
 Behaviors:
 * Display() : void
  
-Class: LoadFile
+Class: LoadFile//----------------------
 Attributes:
 * _fileName : string
 * _fileData : string
@@ -22,7 +22,7 @@ Behaviors:
 * LoadFile : void
 * DisplayData : void
  
-Class: SaveFile
+Class: SaveFile//----------------------
 Attributes:
 * _fileName : string
 * _fileData : string
@@ -33,7 +33,7 @@ Behaviors:
 * SaveFile : void
 * DisplayMsg : void
  
-Class: Entry
+Class: Entry//----------------------
 Attributes:
 * _entry : string
 * _prompt : Prompt()
