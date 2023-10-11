@@ -6,6 +6,7 @@ using System.Diagnostics;
 
 class Program
 {
+    //hey
     public class Journal{
         public void Menu(){
             List<string> _menu = new List<string>{
