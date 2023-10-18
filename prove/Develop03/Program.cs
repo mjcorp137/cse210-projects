@@ -20,7 +20,7 @@ namespace DailyScripture
 
                 if (!scripture.HideRandomWord())
                 {
-                    Console.WriteLine("\nYou got this, you memorized the scripture!!");
+                    Console.WriteLine("\nYou memorized the scripture!!");
                     break;
                 }
 
