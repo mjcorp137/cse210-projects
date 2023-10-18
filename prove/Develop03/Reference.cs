@@ -1,6 +1,6 @@
 using System;
 
-namespace DailyScripture
+namespace DailyBread
 {
         class Reference
     {
