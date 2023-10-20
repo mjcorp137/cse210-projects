@@ -7,7 +7,7 @@ namespace DailyBread
         
         static void Main()
         {
-            Scripture scripture = new Scripture("Ether ", 12, 27, "And if men come unto me I will show unto them their aweakness. I bgive unto men weakness that they may be humble; and my cgrace is sufficient for all men that dhumble themselves before me; for if they humble themselves before me, and have faith in me, then will I make eweak things become strong unto them.");
+            Scripture scripture = new Scripture("Ether ", 12, 27, "And if men come unto me I will show unto them their aweakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make eweak things become strong unto them.");
             Console.Clear();
             scripture.Display(); 
             Console.WriteLine("\n\nPress Enter to continue or type 'quit' to exit.");
